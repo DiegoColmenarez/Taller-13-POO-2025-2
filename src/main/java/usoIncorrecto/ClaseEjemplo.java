@@ -11,5 +11,3 @@ public abstract class ClaseEjemplo {
         System.out.println("El metodo fue usado");
     }
 }
-
-
